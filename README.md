@@ -1,2 +1,3 @@
 # project_IV
 Lõputöö
+Hetkel väga katki ...
